@@ -4,7 +4,7 @@ Various Machine learning models were implemented to classify textual data. The i
 
 # Dataset Information
 
-The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets: one for training (or development) and the other one for testing (or for performance evaluation). The split between the train and test set is based upon a messages posted before and after a specific date.
+The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets: one for training (or development) and the other one for testing (or for performance evaluation). The split between the train and test set is based upon a messages posted before and after a specific date. [Dataset information](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html)
 
 # Data Set Characteristics:
 
